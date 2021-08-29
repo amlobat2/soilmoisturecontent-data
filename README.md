@@ -52,8 +52,7 @@ The final dataset, the [combined multispectral](https://github.com/amlobat2/smc-
 # Cite this dataset
 
 
-'''
-
+```
 @misc{lobatosmc,
     author = {Lobato, Michaela, and Norris, William Robert, and Nagi, Rakesh},
     title = {Hyperspectral and multispectral soil moisture dataset},
@@ -61,5 +60,4 @@ The final dataset, the [combined multispectral](https://github.com/amlobat2/smc-
     publisher = {GitHub},
     howpublished = {\url{https://github.com/amlobat2/smc-data}}
 }
-
-'''
+```
