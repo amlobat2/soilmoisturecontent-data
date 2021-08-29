@@ -58,6 +58,6 @@ The final dataset, the [combined multispectral](https://github.com/amlobat2/smc-
     title = {Hyperspectral and multispectral soil moisture dataset},
     year = {2021},
     publisher = {GitHub},
-    howpublished = {\url{https://github.com/amlobat2/smc-data}}
+    howpublished = {\url{https://github.com/amlobat2/soilmoisturecontent-data}}
 }
 ```
